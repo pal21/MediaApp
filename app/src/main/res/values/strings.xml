@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediaApp</string>
+    <string name="title_activity_media">MediaActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="network_error">No Internet Connection, Please Make Sure Your Device Is Connected To The Internet
+        And Try Again!"</string>
+    <string name="news_notification">"Fetching News........"</string>
+</resources>
